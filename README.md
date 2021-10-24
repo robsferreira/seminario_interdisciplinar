@@ -2,7 +2,8 @@
 
 ## Seminário Interdisciplinar Introdução à Pesquisa.
 
-### Nome dos participantes: (Adicione o seu nome).
+### Nome dos participantes: 
 
-- Robson Da Silva Ferreira.
 - Gustavo Martins Pinheiro.
+- Robson Da Silva Ferreira.
+- (Adicione o seu nome).
