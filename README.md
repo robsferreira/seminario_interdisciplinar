@@ -6,4 +6,5 @@
 
 - Gustavo Martins Pinheiro.
 - Robson Da Silva Ferreira.
-- (Adicione o seu nome).
+- Juan Alves de Sousa.
+- (coloque seu nome).
