@@ -1,3 +1,5 @@
+#  ![](C:\Users\Robson\Desktop\UniasSelvi - FACULDADE\Seminário Interdisciplinar Introdução à Pesquisa\imagens\UniasSelvi.png)
+
 # Bem vindos ao projeto.
 
 ## Seminário Interdisciplinar Introdução à Pesquisa.
@@ -6,4 +8,5 @@
 
 - Gustavo Martins Pinheiro.
 - Robson Da Silva Ferreira.
-- (Adicione o seu nome).
+- Juan Alves De Sousa.
+- Ricardo Rundine Lopes Lima.
