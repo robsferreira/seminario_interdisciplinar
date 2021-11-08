@@ -1,4 +1,4 @@
-#  ![](/assets/imagens/UniasSelvi.png)
+#  ![](imagens/UniasSelvi.png)
 
 # Bem vindos ao projeto.
 
