@@ -8,5 +8,10 @@
 
 - Gustavo Martins Pinheiro.
 - Robson Da Silva Ferreira.
+<<<<<<< HEAD
 - Juan Alves De Sousa.
 - Ricardo Rundine Lopes Lima.
+=======
+- Juan Alves de Sousa.
+- (coloque seu nome).
+>>>>>>> 71cf5109d8e3d01d1fdbc3e34f4100a942aab5fb
